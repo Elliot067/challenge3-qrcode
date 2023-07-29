@@ -37,6 +37,7 @@ body{
 
 #bottom-part h2{
     color: hsl(218, 44%, 22%);
+    padding: 0px 20px 0px 20px;
 }
 
 #bottom-part p{
